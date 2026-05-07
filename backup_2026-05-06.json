@@ -1,0 +1,1286 @@
+{
+  "exportDate": "5/6/2026, 1:22:23 PM",
+  "data": {
+    "materials": [
+      {
+        "id": 1,
+        "name": "اسمنت",
+        "quantity": 3,
+        "unit": "كيس",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 40,
+            "location": "A2-C18",
+            "date": "2026/05/04"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 40,
+            "location": "A3-A11",
+            "date": "2026/05/04"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 10,
+            "location": "A6-A18",
+            "date": "2026/05/04"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 10,
+            "location": "A5-A11",
+            "date": "2026/05/05"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 40,
+            "location": "A3-A15",
+            "date": "2026/05/05"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 40,
+            "location": "A2-C15",
+            "date": "2026/05/05"
+          },
+          {
+            "contractorName": "ادارة المشروع",
+            "qty": 7,
+            "location": "حديقة A1",
+            "date": "2026/05/05"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 40,
+            "location": "A3-A23",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 40,
+            "location": "A4-B12",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 40,
+            "location": "A4-B16",
+            "date": "2026/05/06"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "شيش 10 ملم",
+        "quantity": 223,
+        "unit": "قطعة",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 100,
+            "location": "A6-A10",
+            "date": "2026/05/04"
+          },
+          {
+            "contractorName": "عقيل سلمان",
+            "qty": 50,
+            "location": "A6-B15",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "عقيل سلمان",
+            "qty": 50,
+            "location": "A6-B19",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "عقيل سلمان",
+            "qty": 50,
+            "location": "A6-A22",
+            "date": "2026/05/06"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "شيش 12 ملم",
+        "quantity": 36,
+        "unit": "طن",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 4,
+            "location": "A6-A10",
+            "date": "2026/05/04"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "نايلون",
+        "quantity": 29,
+        "unit": "قطعة",
+        "purchaseHistory": [],
+        "withdrawHistory": []
+      },
+      {
+        "id": 5,
+        "name": "سبيسر 2.5 سم بلاستك",
+        "quantity": 11,
+        "unit": "كيس",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 1,
+            "location": "A6-A10",
+            "date": "2026/05/04"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "سبيسر 5 سم بلاستك",
+        "quantity": 11,
+        "unit": "كيس",
+        "purchaseHistory": [],
+        "withdrawHistory": []
+      },
+      {
+        "id": 7,
+        "name": "فلانكوت",
+        "quantity": 14,
+        "unit": "سطل",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 4,
+            "location": "A4-B24",
+            "date": "2026/05/04"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 2,
+            "location": "A6-B5",
+            "date": "2026/05/05"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 3,
+            "location": "A6-B7",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 1,
+            "location": "A6-A18",
+            "date": "2026/05/06"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "روله صبغ",
+        "quantity": 29,
+        "unit": "قطعه",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 3,
+            "location": "A4-B24",
+            "date": "2026/05/04"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 2,
+            "location": "A6-B5",
+            "date": "2026/05/05"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 3,
+            "location": "A6-B7",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 1,
+            "location": "A6-A18",
+            "date": "2026/05/06"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "سيم تسليح",
+        "quantity": 394,
+        "unit": "ربطه",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 10,
+            "location": "A6-A10",
+            "date": "2026/05/04"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "طابوق الشمال 500 قطعه",
+        "quantity": 79500,
+        "unit": "قطعه",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 500,
+            "location": "A5-A11",
+            "date": "2026/05/05"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 6500,
+            "location": "A6-B9",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 2000,
+            "location": "A6-B11",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 6000,
+            "location": "A5-A19",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 3500,
+            "location": "A3-A11",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 4000,
+            "location": "A3-A23",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 2000,
+            "location": "A2-C18",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 5000,
+            "location": "A2-C3",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 7000,
+            "location": "A4-B8",
+            "date": "2026/05/06"
+          },
+          {
+            "contractorName": "سجاد شاكر",
+            "qty": 1500,
+            "location": "A4-B20",
+            "date": "2026/05/06"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "سبيسر 2.5 سم كونكريت",
+        "quantity": 36,
+        "unit": "كيس",
+        "purchaseHistory": [],
+        "withdrawHistory": [
+          {
+            "contractorName": "اكرم رحيم رحيمه",
+            "qty": 1,
+            "location": "A6-A10",
+            "date": "2026/05/04"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "سبيسر 5 سم كونكريت",
+        "quantity": 44,
+        "unit": "كيس",
+        "purchaseHistory": [],
+        "withdrawHistory": []
+      },
+      {
+        "id": 13,
+        "name": "طابوق سور 400 قطعه",
+        "quantity": 14800,
+        "unit": "قطعه",
+        "purchaseHistory": [
+          {
+            "supplierName": "ادارة المشروع",
+            "qty": 14800,
+            "price": "غير محدد",
+            "date": "5/5/2026, 7:48:44 AM"
+          }
+        ],
+        "withdrawHistory": []
+      }
+    ],
+    "suppliers": [
+      {
+        "id": 1,
+        "name": "ادارة المشروع"
+      }
+    ],
+    "contractors": [
+      {
+        "id": 201,
+        "name": "اكرم رحيم رحيمه"
+      },
+      {
+        "id": 202,
+        "name": "عقيل سلمان"
+      },
+      {
+        "id": 203,
+        "name": "سجاد شاكر"
+      },
+      {
+        "id": 204,
+        "name": "ادارة المشروع"
+      }
+    ],
+    "housingUnits": [
+      {
+        "id": 1,
+        "name": "A2-C18",
+        "notes": "بناء طابق اول هيكل"
+      },
+      {
+        "id": 2,
+        "name": "A3-A11",
+        "notes": "لنتل طابق اول"
+      },
+      {
+        "id": 3,
+        "name": "A4-B24",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 4,
+        "name": "A6-A10",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 5,
+        "name": "A6-A18",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 6,
+        "name": "A5-A11",
+        "notes": "لنتل طابق اول"
+      },
+      {
+        "id": 7,
+        "name": "A3-A15",
+        "notes": "لنتل طابق اول"
+      },
+      {
+        "id": 8,
+        "name": "A2-C15",
+        "notes": "بناء طابق اول هيكل"
+      },
+      {
+        "id": 9,
+        "name": "A6-B5",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 10,
+        "name": "حديقة A1"
+      },
+      {
+        "id": 11,
+        "name": "A1-C6",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 12,
+        "name": "A1-C10",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 13,
+        "name": "A1-C14",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 14,
+        "name": "A1-C18",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 15,
+        "name": "A2-C3",
+        "notes": "سقف طابق اول"
+      },
+      {
+        "id": 16,
+        "name": "A2-C6",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 17,
+        "name": "A2-C7",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 18,
+        "name": "A2-C10",
+        "notes": "فوق اللنتل طابق اول"
+      },
+      {
+        "id": 19,
+        "name": "A2-C11",
+        "notes": "بناء طابق اول هيكل"
+      },
+      {
+        "id": 20,
+        "name": "A2-C14",
+        "notes": "بناء طابق اول هيكل"
+      },
+      {
+        "id": 21,
+        "name": "A3-A3",
+        "notes": "بناء هيكل طابق ثاني"
+      },
+      {
+        "id": 22,
+        "name": "A3-A7",
+        "notes": "بناء هيكل طابق ثاني"
+      },
+      {
+        "id": 23,
+        "name": "A3-A19",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 24,
+        "name": "A3-A21",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 25,
+        "name": "A3-A23",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 26,
+        "name": "A3-A25",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 27,
+        "name": "A3-A17",
+        "notes": "فوق النتل طابق ثاني"
+      },
+      {
+        "id": 28,
+        "name": "A3-B2",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 29,
+        "name": "A3-B4",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 30,
+        "name": "A3-B6",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 31,
+        "name": "A3-B8",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 32,
+        "name": "A3-B10",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 33,
+        "name": "A3-B12",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 34,
+        "name": "A3-B14",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 35,
+        "name": "A3-B16",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 36,
+        "name": "A3-B18",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 37,
+        "name": "A3-B20",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 38,
+        "name": "A3-B22",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 39,
+        "name": "A3-B24",
+        "notes": "اساس جاهز لبناء البتلو"
+      },
+      {
+        "id": 40,
+        "name": "A3-B26",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 41,
+        "name": "A3-B28",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 42,
+        "name": "A4-B1",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 43,
+        "name": "A4-B3",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 44,
+        "name": "A4-B5",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 45,
+        "name": "A4-B7",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 46,
+        "name": "A4-B9",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 47,
+        "name": "A4-B11",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 48,
+        "name": "A4-B13",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 49,
+        "name": "A4-B15",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 50,
+        "name": "A4-B17",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 51,
+        "name": "A4-B19",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 52,
+        "name": "A4-B21",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 53,
+        "name": "A4-B23",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 54,
+        "name": "A4-B25",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 55,
+        "name": "A4-B4",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 56,
+        "name": "A4-B8",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 57,
+        "name": "A4-B12",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 58,
+        "name": "A4-B16",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 59,
+        "name": "A4-B20",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 61,
+        "name": "A4-B28",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 62,
+        "name": "A5-B2",
+        "notes": "صب اساس"
+      },
+      {
+        "id": 63,
+        "name": "A5-B4",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 64,
+        "name": "A5-B6",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 65,
+        "name": "A5-B8",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 66,
+        "name": "A5-B10",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 67,
+        "name": "A5-B11",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 68,
+        "name": "A5-B12",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 69,
+        "name": "A5-B14",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 70,
+        "name": "A5-B16",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 71,
+        "name": "A5-B18",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 72,
+        "name": "A5-B20",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 73,
+        "name": "A5-B22",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 74,
+        "name": "A5-A1",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 75,
+        "name": "A5-A3",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 76,
+        "name": "A5-A5",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 77,
+        "name": "A5-A7",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 78,
+        "name": "A5-A9",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 79,
+        "name": "A5-A13",
+        "notes": "صب اساس"
+      },
+      {
+        "id": 80,
+        "name": "A5-A15",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 81,
+        "name": "A5-A17",
+        "notes": "صب اساس"
+      },
+      {
+        "id": 82,
+        "name": "A5-A19",
+        "notes": "بناء هيكل طابق اول"
+      },
+      {
+        "id": 83,
+        "name": "A5-A21",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 84,
+        "name": "A5-A23",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 85,
+        "name": "A6-B1",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 86,
+        "name": "A6-B3",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 87,
+        "name": "A6-B7",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 88,
+        "name": "A6-B9",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 89,
+        "name": "A6-B11",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 90,
+        "name": "A6-B13",
+        "notes": "بناء بتلو"
+      },
+      {
+        "id": 91,
+        "name": "A6-B15",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 92,
+        "name": "A6-B17",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 93,
+        "name": "A6-B19",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 94,
+        "name": "A6-B21",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 95,
+        "name": "A6-B23",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 96,
+        "name": "A6-A2",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 97,
+        "name": "A6-A4",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 98,
+        "name": "A6-A6",
+        "notes": "صب سقف طابق اول"
+      },
+      {
+        "id": 99,
+        "name": "A6-A8",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 100,
+        "name": "A6-A12",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 101,
+        "name": "A6-A14",
+        "notes": "فوق النتل طابق اول"
+      },
+      {
+        "id": 102,
+        "name": "A6-A16",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 103,
+        "name": "A6-A20",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 104,
+        "name": "A6-A22",
+        "notes": "ارض محدوله"
+      },
+      {
+        "id": 105,
+        "name": "A6-A24",
+        "notes": "ارض محدوله"
+      }
+    ],
+    "unitConsumptions": [
+      {
+        "id": 1,
+        "unitId": 1,
+        "unitName": "A2-C18",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 40,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 2,
+        "unitId": 2,
+        "unitName": "A3-A11",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 40,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 3,
+        "unitId": 4,
+        "unitName": "A6-A10",
+        "materialId": 3,
+        "materialName": "شيش 12 ملم",
+        "materialUnit": "طن",
+        "qty": 4,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 4,
+        "unitId": 4,
+        "unitName": "A6-A10",
+        "materialId": 2,
+        "materialName": "شيش 10 ملم",
+        "materialUnit": "قطعة",
+        "qty": 100,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 5,
+        "unitId": 4,
+        "unitName": "A6-A10",
+        "materialId": 9,
+        "materialName": "سيم تسليح",
+        "materialUnit": "ربطه",
+        "qty": 10,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 6,
+        "unitId": 4,
+        "unitName": "A6-A10",
+        "materialId": 5,
+        "materialName": "سبيسر 2.5 سم بلاستك",
+        "materialUnit": "كيس",
+        "qty": 1,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 7,
+        "unitId": 4,
+        "unitName": "A6-A10",
+        "materialId": 11,
+        "materialName": "سبيسر 2.5 سم كونكريت",
+        "materialUnit": "كيس",
+        "qty": 1,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 8,
+        "unitId": 3,
+        "unitName": "A4-B24",
+        "materialId": 7,
+        "materialName": "فلانكوت",
+        "materialUnit": "سطل",
+        "qty": 4,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 9,
+        "unitId": 3,
+        "unitName": "A4-B24",
+        "materialId": 8,
+        "materialName": "روله صبغ",
+        "materialUnit": "قطعه",
+        "qty": 3,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 10,
+        "unitId": 5,
+        "unitName": "A6-A18",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 10,
+        "date": "2026/05/04",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 11,
+        "unitId": 6,
+        "unitName": "A5-A11",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 10,
+        "date": "2026/05/05",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 12,
+        "unitId": 6,
+        "unitName": "A5-A11",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 500,
+        "date": "2026/05/05",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 13,
+        "unitId": 7,
+        "unitName": "A3-A15",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 40,
+        "date": "2026/05/05",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 14,
+        "unitId": 8,
+        "unitName": "A2-C15",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 40,
+        "date": "2026/05/05",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 15,
+        "unitId": 9,
+        "unitName": "A6-B5",
+        "materialId": 7,
+        "materialName": "فلانكوت",
+        "materialUnit": "سطل",
+        "qty": 2,
+        "date": "2026/05/05",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 16,
+        "unitId": 9,
+        "unitName": "A6-B5",
+        "materialId": 8,
+        "materialName": "روله صبغ",
+        "materialUnit": "قطعه",
+        "qty": 2,
+        "date": "2026/05/05",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 17,
+        "unitId": 10,
+        "unitName": "حديقة A1",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 7,
+        "date": "2026/05/05",
+        "note": "تم الصرف بواسطة: ادارة المشروع"
+      },
+      {
+        "id": 18,
+        "unitId": 87,
+        "unitName": "A6-B7",
+        "materialId": 7,
+        "materialName": "فلانكوت",
+        "materialUnit": "سطل",
+        "qty": 3,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 19,
+        "unitId": 87,
+        "unitName": "A6-B7",
+        "materialId": 8,
+        "materialName": "روله صبغ",
+        "materialUnit": "قطعه",
+        "qty": 3,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 20,
+        "unitId": 5,
+        "unitName": "A6-A18",
+        "materialId": 7,
+        "materialName": "فلانكوت",
+        "materialUnit": "سطل",
+        "qty": 1,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 21,
+        "unitId": 5,
+        "unitName": "A6-A18",
+        "materialId": 8,
+        "materialName": "روله صبغ",
+        "materialUnit": "قطعه",
+        "qty": 1,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 22,
+        "unitId": 88,
+        "unitName": "A6-B9",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 6500,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 23,
+        "unitId": 89,
+        "unitName": "A6-B11",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 2000,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 24,
+        "unitId": 82,
+        "unitName": "A5-A19",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 6000,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: اكرم رحيم رحيمه"
+      },
+      {
+        "id": 25,
+        "unitId": 25,
+        "unitName": "A3-A23",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 40,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 26,
+        "unitId": 57,
+        "unitName": "A4-B12",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 40,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 27,
+        "unitId": 58,
+        "unitName": "A4-B16",
+        "materialId": 1,
+        "materialName": "اسمنت",
+        "materialUnit": "كيس",
+        "qty": 40,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 28,
+        "unitId": 2,
+        "unitName": "A3-A11",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 3500,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 29,
+        "unitId": 25,
+        "unitName": "A3-A23",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 4000,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 30,
+        "unitId": 1,
+        "unitName": "A2-C18",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 2000,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 31,
+        "unitId": 15,
+        "unitName": "A2-C3",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 5000,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 32,
+        "unitId": 56,
+        "unitName": "A4-B8",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 7000,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 33,
+        "unitId": 59,
+        "unitName": "A4-B20",
+        "materialId": 10,
+        "materialName": "طابوق الشمال 500 قطعه",
+        "materialUnit": "قطعه",
+        "qty": 1500,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: سجاد شاكر"
+      },
+      {
+        "id": 34,
+        "unitId": 91,
+        "unitName": "A6-B15",
+        "materialId": 2,
+        "materialName": "شيش 10 ملم",
+        "materialUnit": "قطعة",
+        "qty": 50,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: عقيل سلمان"
+      },
+      {
+        "id": 35,
+        "unitId": 93,
+        "unitName": "A6-B19",
+        "materialId": 2,
+        "materialName": "شيش 10 ملم",
+        "materialUnit": "قطعة",
+        "qty": 50,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: عقيل سلمان"
+      },
+      {
+        "id": 36,
+        "unitId": 104,
+        "unitName": "A6-A22",
+        "materialId": 2,
+        "materialName": "شيش 10 ملم",
+        "materialUnit": "قطعة",
+        "qty": 50,
+        "date": "2026/05/06",
+        "note": "تم الصرف بواسطة: عقيل سلمان"
+      }
+    ]
+  }
+}
