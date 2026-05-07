@@ -1,2 +1,16 @@
-# Repository-name-warehouse-management-system-Description-Public-Public-
-Repository name: warehouse-management-system Description: نظام إدارة مخزن مجمع الجارح السكني Public (اختر Public عشان يكون مجاني)
+# 📦 نظام إدارة مخزن مجمع الجارح السكني
+
+نظام متكامل لإدارة المخازن والمشتريات والمتعهدين والوحدات السكنية.
+
+## ✨ المميزات
+- إدارة المواد والمخزون
+- تتبع المشتريات من الموردين
+- تنظيم سحب المواد للمتعهدين
+- ربط الوحدات السكنية
+- تقارير شاملة
+- نسخ احتياطي إلى Google Drive
+
+## 🚀 تشغيل النظام
+[اضغط هنا لتشغيل النظام](https://YOUR-USERNAME.github.io/warehouse-management-system)
+
+## 📱 متوافق مع الجوال
